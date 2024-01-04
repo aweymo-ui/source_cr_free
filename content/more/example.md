@@ -1,15 +1,10 @@
 ---
-section_id: Customize
+section_id: Search Strategies
 nav_order: 4
-title: Example Page 
-topics: Example Topic; Another Example
-description: >
-    This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
-youtubeid: moJgWrD6dwg
+title: Boolean Operators
+topics: 
 ---
 
-As seen above, setting front matter options will create features on the page:
+Boolean operators are a database logic you can use to refine your searches. The most basic elements are using `AND, OR and NOT(or"-")` between keywords or putting `quotes` around your phrases to use an exact phrase and `parenthesis` when using multiple operators in the same line. Helpful Google (and Google Scholar) operators include `site: (and -site)` to include or exclude results from specific sites and `AROUND(#)` to produce results where your two keywords on either side are within a certain number of words with each other. 
 
-- `topics:` will appear as a small feature below the title (optional). 
-- `description:` will appear as an indented text block below the title (optional). This gives you a chance to summarize the section contents. 
-- `youtubeid:` will add an YouTube video embed (optional). Find the id in the YouTube link. For example, in `https://youtu.be/moJgWrD6dwg` or `https://www.youtube.com/watch?v=moJgWrD6dwg` the youtubeid is `moJgWrD6dwg`.
+> Learn more about Boolean Operators with [this MIT guide](https://libguides.mit.edu/c.php?g=175963&p=1158594)

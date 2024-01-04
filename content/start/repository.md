@@ -1,22 +1,17 @@
 ---
-section: Get Started
+section: Copyright Basics
 nav_order: 2
-title: Create Project
-topics: Template; Basic Config
+title: Newspapers
+topics: Copyright; 
 ---
 
-The [lesson-template repository](https://github.com/learn-static/lesson-template) is a template project --> to get started quickly, make a copy and replace the demo with your own content and customizations.
+The advent of digital newspaper collection has made a massive amount of publicly accessible but not necessarily available to use. In addition to everything before 1929 being public domain, if a newspaper **never filed a copyright claim between 1923 through 1977** or **never renewed a copyright from 1923 to 1963**, the item is public domain. 
 
-The [demo site](https://learn-static.github.io/lesson-template/) demonstrates the output on GitHub Pages.
-The content pages in the repository serve as documentation and examples to copy from.
+This sounds complicated, but thanks to copyright records that have been digitized and run through optical character recognition, this process is more manageable than ever.
 
 {% capture text %}
-1. Click the green "Use this template" button on the [lesson-template repository](https://github.com/learn-static/lesson-template) to make your own new copy of the code (make sure you are logged into GitHub!).
-2. Work on the GitHub web interface or clone to your local machine to edit files (tip: click `.` on any GitHub repository to [open the web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)).
-3. Edit the "_config.yml" file with your info.
-4. Edit/add the content pages in Markdown (found in the "content" folder).
-5. Add any images to the "images" folder.
-5. Commit on the web interface or push to GitHub from your local machine.
-6. In your repository's settings, activate GitHub Pages, using main branch.
+1. Figure out the date that the newspaper started, which any major search engine should be able to provide
+2. Look up the year (and maybe a few years afterwards to be safe) in the [Catalog of Copyright Entries](https://archive.org/details/copyrightrecords&tab=about) in the Internet Archive, which spans 1891-1977 search the [text for your newspaper title](https://archive.org/search?query=mediatype%3A%28texts%29+AND+contributor%3A%28%28United+States+Copyright+Office%29%29+1923+Catalog+of+Copyright+Entries%2C+Part+2%2C&sort=-date). If you don't find your title, it is public domain. If you do, go to step three -- 
+3. Third, depending on the date that the license was obtained, check the [Catalog of Copyright Entries](https://archive.org/details/copyrightrecords&tab=about) or the Library of Congress' [Copyright Public Records System](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=Indianapolis+Times&Search_Code=TALL&PID=6TUmlnaBcwg0zFtT97LZZSNB8ZiP&SEQ=20240102144432&CNT=25&HIST=1) (spanning 1978-present)  [28 years](https://www.copyright.gov/help/faq/faq-duration.html) afterwards. If you don't find a record for it within five years that the license expired, it is public domain. If they did, **the item will become public domain 95 years after the date it was originally published.** 
 {% endcapture %}
-{% include card.html header="Create Repository" text=text %}
+{% include card.html header="Check Newspaper Copyright" text=text %}

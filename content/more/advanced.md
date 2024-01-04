@@ -1,43 +1,22 @@
 ---
-section: Customize
+section: Search Strategies
 nav_order: 2
-title: Advanced Customization Options
-topics: CSS
+title: Additional Strategies
+topics: 
 ---
 
-The Lesson Template theme is build using [Bootstrap 5](https://getbootstrap.com/). 
-Once you understand how it works, you can dig into the template code and make your own tweaks!
+## Isolating Unique Identifiers
 
-## Add Custom CSS
+Sometimes searching for someone with a very common name is even more difficult than a unique one. If you are tasked with finding media on a John Smith, employ those Boolean operators discussed above and try drilling down on the specific area that they lived in, when they lived and aspects of their life, such as where they worked, clubs they were associated or partners who may have a less conventional name.  
 
-The best way to add custom CSS rules to your site is by editing the "_sass/_custom.scss" file. 
-CSS or [SASS](https://sass-lang.com/) that you place in this file will override Bootstrap and the template's classes. 
+---
 
-The template's SASS is contained in "_sass/template.scss".
-These rules style the sidebar and content features.
-Rather than editing directly, it is better to override them using "_custom.scss".
+## Reverse Image Searching
 
-The "SASS partials" contained in the "_sass" folder are pulled into the final CSS file "assets/css/main.scss".
-In general "main.scss" does not need to be edited.
+But what if you have an image with no data and you need to determine the copyright status of the object? This is a perfect job for reverse image searching, which has greatly increased in accuracy due to rapid developments in machine learning. While Google, Bing and Yandex all have reverse image searching tools in their browser, I prefer [TinEye](https://tineye.com/) for it's simple interface and ability to sort image results by file size (if I am looking for the highest quality version of an image) and upload date (if I am looking for the original version of an image). This is also helpful for finding a non-Getty version of an image mentioned in the previous module.
 
-## Tweak Includes 
+---
 
-Modular chucks of the template's theme can be found in "_includes/template/" folder.
-These includes create component parts such as the header or javascript included on every page.
+## Conclusion
 
-You might be interested in editing the content of a few:
-
-- "credits.html" -- attempts to auto generates creates for the front page of your site based on config values.
-- "sidebar-footer.html" -- controls the information at the bottom of the sidebar nav.
-- "analytics.html" - To add analytics to your project, paste the tracking snippet provided by your platform (such as Matomo or Google Analytics) into this file. The analytics code will only be added when using "production" environment, so that you will avoid triggering hits during development. The "production" environment is used automatically on GitHub Pages. To build manually on your local machine you will need to add "JEKYLL_ENV", like: `JEKYLL_ENV=production jekyll build`.
-
-You can also always add additional includes to the folder if you have a template feature that you want to use in your content!
-
-## Edit Layouts
-
-The templates that control the final layout of all pages are in the "_layouts" folder.
-
-All pages in the "content" folder default to the "lesson-content.html" layout. 
-If you would like your page to follow a different layout, manually set the layout in the front matter: `layout: example`.
-
-All pages eventually use the "default.html" which contains the header and sidebar nav.
+In summary, you are just beginning when you have searched the given name of a person, place or thing as we know it today. Varying your research strategy depending on the era, location and even lifestyle of your research subject in order to locate them in the historical record is an invaluable research skill and, in my experience, yields superior results to algorithmic search engines. 

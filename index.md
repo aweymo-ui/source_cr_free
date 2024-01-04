@@ -1,17 +1,11 @@
 ---
-title: Lesson Template
+title: Sourcing Copyright Free Media Workshop
 layout: lesson-content
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
-
 {% include figure.html img="the_harvest.jpg" alt="Illustration of two figures gathering grapes in a vineyard" caption="Illustration of the short story The Harvest by Portuguese writer and journalist Guedes de Amorim, in the 1940s." width="75%" %}
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+Incorporating images, video and audio into your research can help add context, make concepts more relatable and findings more intuitive. At the same time, machine learning and reverse image searching has made identifying copyright protected material easier than ever before, which can cost you hours of reworking material or monetary damage. Understanding basic copyright laws and advanced digital research strategies can help protect you from these elements and enrich your work. 
 
 {% include toc.html %}
 

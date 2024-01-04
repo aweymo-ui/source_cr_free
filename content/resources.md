@@ -1,54 +1,26 @@
 ---
 nav_order: 5
-title: Reference & Resources
+title: Closing Thoughts
 ---
 
-To learn about using Lesson Template, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/learn-static/lesson-template/blob/main/README.md)).
+### Why Use a Copyright Image When There's Google?
 
-Workshop sites using this template:
+As I hinted at in the title of the workshop, using these techniques, you should be able to find _almost_ any copyright free media on your given subject. The exception to the rule are people of regular means before the invention of the handheld camera in the 1880s, and people towards the end of the twenty first century. Why the latter? I've found that copyright law and the lack of camera phones has created a real gap in the historical record for people most active in the 1970s through the turn of the century. In the last twenty years, the accessibility of camera technology and greater overall familiarity with copyright law has made people (who have an interest in being seen) to license photos of themselves in the creative commons. 
 
-- [Demo](https://learn-static.github.io/lesson-template/) (this repository) 
+> In this [interactive visualization](https://indd.adobe.com/view/c320b5b9-b2c6-4e38-a952-0906df85ad08) I created for the digital encyclopedia BlackPast, I was asked to source photos of around 150 Black classicist scholars from all over the world. Most often, the most difficult people to find were active during this 1970-2000 period. An additional factor to this gap may also be digital initiatives, where universities, cultural institutions and libraries choose to digitize older collections in their archives, rather than from this more contemporary period, because they are seen as being at a higher risk of deterioration.
 
-# Reference
+---
 
-## Git & GitHub
+With this in mind, if you do find yourself tempted to use a copyright protected image of a celebrity, athlete or musician that was active during one of these more fallow periods, I find it helpful to ask myself:
 
-[GitHub](https://github.com/) is a popular web service for hosting Git repositories--with benefits!
-It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and [free static web hosting](https://pages.github.com/) powered by [Jekyll](https://jekyllrb.com/).
-Accounts are free.
-To learn more check out Hello World on [GitHub Guides](https://guides.github.com/) or [GitHub Learning Lab](https://lab.github.com/).
+- How many people do not know what this person looks like? and
+- What will the inclusion of this person's photo add for the reader?
 
-## Markdown
+---
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web. 
-Markdown can be used any where on GitHub and in Jekyll.
+## Additional Viewing
 
-- [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/){:target="_blank" rel="noopener"}
-- [GitHub Markdown documentation](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax){:target="_blank" rel="noopener"}
-- [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
+If you would like to learn more about copyright, major media conglomerates and public access to history, I would highly recommend watching [A History Of The World According To Getty Images](https://vimeo.com/818633482) by Richard Misek.
 
-## Bootstrap 5
-
-[Bootstrap](https://getbootstrap.com/) is a CSS framework designed to streamline developing user interfaces for your website.
-
-[Bootstrap Icons](https://icons.getbootstrap.com/) are SVG-based icon set used to add graphics to your content.
-
-## YAML
-
-[YAML](http://www.yaml.org/) is a human readable plain text data format.
-It is used in Jekyll for configuration, site data, and front matter.
-Jekyll projects are [configured](https://jekyllrb.com/docs/configuration/) using the "_config.yml" file.
-
-## Liquid
-
-[Liquid](http://shopify.github.io/liquid/) is a flexible template language.
-[In Jekyll]((https://jekyllrb.com/docs/liquid/) it allows you to layout pages built from modular components and data, using the "_includes", "_layouts", and "_data" directories.
-Liquid includes features such as operators, loops, and filters to manipulate raw content. 
-Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in {% raw %}`{{  }}`{% endraw %}.
-
-## Sass  
-
-[Sass](http://sass-lang.com/) is a CSS extension / preprocessor. 
-All normal CSS is valid SCSS, but Sass adds many powerful functions and programmatic features. 
-Writing SCSS is often easier and more sensible, for example by supporting nesting, variables, and operators. 
-Jekyll lets you write SASS in modular chucks called partials, in the "_sass" directory, that will be combined and compiled into normal CSS files when the site is built.
+<iframe src="https://player.vimeo.com/video/818633482?h=547b4a8ca9&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/818633482"></a>.</p>

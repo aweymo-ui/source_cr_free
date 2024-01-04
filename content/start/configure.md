@@ -1,55 +1,33 @@
 ---
-section: Get Started
+section: Copyright Basics
 nav_order: 3
-title: Basic Configuration
-topics: Site options; _config.yml
+title: Additional Considerations
+topics: Fair Use; Attribution; Takedown Requests; Version Copyright
 ---
 
-In your project repository, edit the "_config.yml" file to get your workshop website set up with the basics such as `title`, `description` and `author`.
-Check comments (denoted by `#` in YAML) in the file for all the options!
+## Fair Use
 
-Once you have edited the "_config.yml" to fill in your details, you are ready to start editing your [content pages]({{ '/content/docs/pages.html' | relative_url }}).
+But does any of this matter when you can claim you are using copyright protected material in _fair use_? According to the [U.S. Copyright Office](https://www.copyright.gov/fair-use/), fair use is the "legal doctrine that promotes freedom of expression by permitting the unlicensed use of copyright-protected works in certain circumstances." These special circumstances include the “purpose and character of the use” particularly when using for non-profit and/or educational purposes. 
 
-## Site Settings
+> That said, arguing the case that you are using an item in this way is expensive enough to ward many away from attempting to do so. In my work, I've never needed to use a copyright protected image under fair use aside from a handful of times it was requested directly by the founders, who understood the liabilities. 
 
-The values in this section of "_config.yml" will populate the template elements of your website, such as header and footer.
-Replace the template values with your own details.
+---
 
-At minimum, be sure to fill in `title`.
-The other values are optional, but strongly suggested.
+## Attribution
 
-The `publication_year`, `source-code` link, `content_license`, and `content_license_link` are displayed at the bottom of the sidebar nav and in the credits section of the home page. 
-Filling these options in ensures others can properly reuse and cite your content.
+Even though only some Creative Common licenses require attribution, it will be helpful to you as a researcher to give full attributions for all of your work. Providing a **title, author, source** (including archival catalog number if applicable) and **license** of the work will ultimately improve your records, dissuade infringement claims and help readers find the media sources independently if they are interested. 
 
-## Theme Customization [optional]
+---
 
-The "_config.yml" contains some variables that can customize the basic style of website.
-These options are added to the template CSS, so the values must be valid in CSS (i.e. an [html color value](https://www.w3schools.com/colors/colors_picker.asp), usually hash is easiest such as `#66ff33`).
-Please take care with your custom selections to ensure there is enough contrast between the background and text colors for accessibility.
+## Takedown Requests
 
-To use the options, uncomment the line (i.e. delete the leading `#`) and fill in an appropriate value.
-If you are using a hash color value, you will need to put quotes around it.
+Unable to identify the copyright status of an item you would like to use and the risk of the material type seems low? Creating a simple takedown notice request section in your research gives potential copyright owners a way to contact you directly to avoid legal complications. 
 
-- `header-background` - adds a background color to the top header, e.g. `"#ffebcd"`
-- `header-text-color` - changes the top header text color, which should be changed with the header background to ensure readability, e.g. `"#ffffff"`
-- `breadcrumbs-background` - changes the background color of the breadcrumbs bar, e.g. `"#ffebcd"`
-- `breadcrumbs-text-color` - changes the breadcrumbs bar text color, which should be changed with the breadcrumbs background to ensure readability, e.g. `"#ffffff"`
-- `active-nav-color` - changes the color highlighting the current page in the sidebar nav, keep in mind that nav text is black, so this should be a light color to ensure contrast, e.g. `"#17916d"`
-- `link-color` - changes the color used in hyperlinks, e.g. `"#2c1fdd"`
-- `next-button-color` - changes the border color of the prev / next buttons at the bottom of content pages, e.g. `"#2c1fdd"`
-- `text-color` - changes the body text color, e.g. `"#111"`
-- `base-font-size` - changes the body text font size, use rem or px units, e.g. `1.1rem`
+--- 
 
-Note: to add your own custom CSS, use the file "_sass/_custom.scss".
-Any CSS/SASS you add to this file will override the template and Bootstrap classes.
+## Version Copyright
 
-## URL Variables [optional]
+Lastly, you may encounter images which should be in public domain but are claimed by stock photography giants such as Getty Images or AP News to be under their copyright. This is because these companies have copyright over a **particular print, version or photograph** of the public domain work.
 
-If you are using GitHub Pages to host your site, these values should be left commented out.
 
-However, if you are manually building your site or hosting it else where, the `url` (the domain or subdomain such as "https://username.github.io") and `baseurl` (the path location such as "/workshop-example") values should be filled in.
-Neither value should have a trailing `/` slash.
-
-## Robots Exclude [optional]
-
-If you do **NOT** want Google to index your website, uncomment the line `noindex: true`.
+> One example is the _Mona Lisa_, which is public domain because Leonardo da Vinci died more than 70 years ago. Getty would like to sell you [this photograph](https://www.gettyimages.com/detail/news-photo/mona-lisa-also-called-la-gioconda-or-la-joconde-c1503-1506-news-photo/113493446?adppopup=true) of the painting for $500 or you can choose to use [this photograph](https://commons.wikimedia.org/wiki/File:Mona_Lisa_-_the_Louvre.jpg) for free, because the person who took it also made it publicly available. This is another place where good record keeping and proper attribution will pay off. As long as you can point to a copyright free version you sourced the media from, you are protected from this threat. 

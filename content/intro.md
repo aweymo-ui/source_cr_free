@@ -3,39 +3,12 @@ nav_order: 1
 title: Introduction
 ---
 
-Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+This workshop will guide you through only the elements of copyright laws you will need to know, provide a custom search engine for scanning archival resources and introduce you to research strategies for sourcing obscure, copyright free media and understanding the license of media you don't know the status of. 
 
-It features a sidebar navigation providing clear structure for step by step content.
-The sidebar nav supports pages nested into sections to help organize your lesson content. 
+### About the Author
 
-All content is written using basic Markdown, making it simple to write, edit, and reuse lesson materials.
+This workshop is based on my experience working as the Digital Media Editor for Washington State history site, [HistoryLink](https://historylink.org/), before coming to the University of Idaho as the Digital Initiatives Librarian. The position required helping written and oral historians source material that would strengthen their articles and survey the visual resources of the entire site to improve its accessibility. 
 
-To use Lesson Template to create your own website--> make a copy and replace the template content with your own!
-
-### Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this relatively straightforward.
-
-Writing content in this simple, reuseable format makes for a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
-
-## GitHub Pages 
-
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
-
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
-
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
-
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
+{% capture text %}Disclaimer:
+**I am not a lawyer** and this is not professional legal advice. This workshop is for educational purposes only. {% endcapture %}
 {% include alert.html text=text color=secondary %}

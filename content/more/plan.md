@@ -1,65 +1,10 @@
 ---
-section: Customize
-nav_order: 3
-title: Lesson Plan Template
-topics: Learning Objectives; Assignments
+section: Search Strategies
+nav_order: 1
+title: Keyword and Naming Strategies
+topics: 
 ---
 
-# LEARNING SEQUENCE: [Title]
+On a past project, I was trying to find a photo of a [Filipino cannery worker](https://maritimewa.org/story/through-a-filipino-lens-washington-state-cannery-workers-in-alaska/) that traveled between San Francisco and Alaska in the 1920s and 30s. I found that Salvador Caballero was listed in newspapers, union periodicals and archival records alternately as S. Caballero, Sal Caballero and Salvatore Caballero. Older documents will often add a middle initial to a name and sometimes abbreviate first names in ways we don't often see anymore. For example, Geo. for George, Abig. for Abigail and Chas. for Charles, pop up frequently in historic newspapers and books. This [Wiktionary list](https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names) of English name abbreviations is a handy reference if you encounter this. 
 
-## Learning Sequence Description
-
-INSTRUCTIONS: Add a summary of your learning sequence including the intended audience and content topics.
-
------
-
-## Learning Objectives and Aligned Assessments
-
-INSTRUCTIONS for Learning Objectives: Describe the objectives in specific, measurable, short-term, observable learner behaviors (See the Learning Objectives Builder Tool for help). Identifying the desirable knowledge, skills, or attitudes to be gained as a result of the class activities.
-
-INSTRUCTIONS for Assessments: List the learning assessment methods you intend to use to measure the stated learning objectives. How will you know that the objectives are achieved?
-
-| Learning Objectives | Aligned Assessments |
-| -----| ------|
-|By the end of this class, you will be able to |   |
-| 2  |  2   |
-| 3  |  3   |
-{:.table}
-
--------
-
-## ALIGNED STANDARDS/FRAMEWORK (Optional/Suggested)
-
-INSTRUCTIONS: It is optional and suggested to identify standards/frameworks/competencies that align with your learning sequence and define what learners should know and be able to do within a content area at specific stages in their education (for example, the [ACRL Framework for Information Literacy for Higher Education](https://www.ala.org/acrl/standards/ilframework) or [ISTE Standards](https://www.iste.org/standards/iste-standards-for-students)). 
-
--------
-
-## RESOURCES
-
-| Resource Type| Links & Materials |
-| --- | --- |
-| Instructor Materials | Instructor supports (handouts, online resources, technology needs). |
-| Learner Materials | Learner essential materials.|
-| Supplemental Materials | Learner supplemental/optional materials. |
-{:.table }
-
-## LEARNING SEQUENCE OUTLINE
-
-### Before Class
-
-WHAT TO INCLUDE: Pre-class assessments; Pre-work to prepare for hands-on class time.
-
-### During Class
-
-WHAT TO INCLUDE: Create a detailed plan for class time. What content teaching strategies, learning activities (application), and formative assessments will you employ and in what order?
-
-| Estimated time | Topic/Material Covered | Activity/Delivery Method |
-| ----  | ---- | ---- |
-| 1     |      |      |
-| 2     |      |      |
-| 3     |      |      |
-{:.table}
-
-### After Class
-
-WHAT TO INCLUDE: Summative Assessments;  Plans for following-up with learners and those needing additional support;  Extension of learning opportunities
+> The University of Idaho's [Taylor Wilderness Research Station](https://www.uidaho.edu/cnr/taylor-wilderness-research-station) was previous Taylor Ranch. The town of [Tensed, ID](https://en.wikipedia.org/wiki/Tensed,_Idaho) was originally named De Smet after a Belgian missionary, reversed and misspelled at the post office. As of 2022, the US Department of Interior renamed [71 natural areas](https://idahocapitalsun.com/briefs/interior-department-votes-to-rename-geographic-places-in-idaho-that-included-ethnic-slur-for-indigenous-women/#:~:text=In%20Idaho%2C%20the%20changes%20included,Naokwaide%20and%20Newe%20Waippe%20Naokwaide.) around Idaho that had derogatory names. The names of buildings, cities and natural resources can shift colloquially over time or over night. If you find a strange gaps in search results, try zooming out and searching more encyclopedic sources like Wikipedia or [Geonames](https://www.geonames.org/) to check for name changes.
