@@ -1,0 +1,9 @@
+field,display_name,btn,hidden,sort_name
+title,Title,,,
+creator,Creator(s),,
+date,Launched,,
+description,Description,,
+format,,,true
+type,,,true
+focus,,,true
+contents,,,true
