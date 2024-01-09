@@ -37,11 +37,8 @@ foot: template/browse-js.html
 </div>
 
 <div class="row">
-    <div class="col-12 col-md-8">
-        <div class="row" id="browseItems"></div>
-    </div>
-    <div class="d-none d-md-block col-md-4">
-        <div class="accordion" id="accordionExample">
+    <div class="col-md-4">
+        <div class="accordion mb-3" id="accordionExample">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -89,5 +86,8 @@ foot: template/browse-js.html
                 </div>
             </div>
         </div>
+    </div>
+    <div class="col-md-8 order-md-first">
+        <div class="row" id="browseItems"></div>
     </div>
 </div>
