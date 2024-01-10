@@ -3,7 +3,9 @@ title,Title,,,
 creator,Creator(s),,
 date,Launched,,
 description,Description,,
-format,,,true
-type,,,true
+images,,,true
+audio,,,true
+video,,,true
 focus,,,true
+regional archive examples,,,true
 contents,,,true
