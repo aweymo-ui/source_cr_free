@@ -2,7 +2,6 @@
 section: Copyright Basics
 nav_order: 3
 title: Additional Considerations
-topics: Fair Use; Attribution; Takedown Requests; Version Copyright
 ---
 
 ## Fair Use

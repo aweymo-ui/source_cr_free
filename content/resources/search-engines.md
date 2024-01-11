@@ -2,7 +2,6 @@
 section_id: Resources
 nav_order: 3
 title: Major Search Engines
-topics: Google; Digital Asset Managers
 ---
 
 Why search in multiple areas for media when the major search engines are so intuitive and easy to use? While our digital collections are google searchable at the [University of Idaho](https://www.google.com/search?q=%22An+elephant+skull+on+display%22&tbm=isch&ved=2ahUKEwi87fjE5r-DAxUtCTQIHZ5UCfMQ2-cCegQIABAA&oq=%22An+elephant+skull+on+display%22&gs_lcp=CgNpbWcQA1CAHlj0JWCKKGgAcAB4AIABNIgBlAGSAQEzmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=nJSUZbyvE62S0PEPnqmlmA8&bih=957&biw=1920&rlz=1C1GCEU_enUS1072US1072), the majority of digital archives for universities, cultural institutions and libraries are not. This comes from the push and pull of archives wanting to make things available for researchers but not so much for bots engaging in web scraping. 

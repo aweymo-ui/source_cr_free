@@ -2,7 +2,6 @@
 section: Resources
 nav_order: 2
 title: How to Use These Resources
-topics: 
 ---
 
 The following module is a list of resources you can use to find media, working broadly and then drilling down into smaller, more detailed resources. Using the filter on the left hand side of the following module, you can pinpoint repositories that will be most helpful for you. These include filtering by format (`images, audio and video`) as well as by repository type, which include:

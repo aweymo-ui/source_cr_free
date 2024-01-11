@@ -3,7 +3,7 @@ nav_order: 1
 title: Introduction
 ---
 
-This workshop will guide you through only the elements of copyright laws you will need to know, provide a custom search engine for scanning archival resources and introduce you to research strategies for sourcing obscure, copyright free media and understanding the license of media you don't know the status of. 
+This workshop will guide you through only the elements of copyright laws you will need to know, provide a custom search engine for scanning archival resources and introduce you to research strategies for sourcing obscure, copyright free media and identify the license of media you don't know the status of. 
 
 ### About the Author
 
