@@ -32,6 +32,6 @@ Lastly, you may encounter images which should be in public domain but are claime
 
 {% include figure.html img="mona_lisa.jpg" alt="Photograph of the Mona Lisa" caption="Mona Lisa, photograph by Josh Hallett, Paris, July 2009, under CC BY-SA 2.0 license" width="75%" %}
 
-One example is the _Mona Lisa_, which is public domain because Leonardo da Vinci died more than 70 years ago. Getty would like to sell you [this photograph](https://www.gettyimages.com/detail/news-photo/mona-lisa-also-called-la-gioconda-or-la-joconde-c1503-1506-news-photo/113493446?adppopup=true) of the painting for $500, because they have registered copyright on __that print__ not the actual painting.
+One example is the _Mona Lisa_, which is public domain because Leonardo da Vinci died more than 70 years ago. Getty would like to sell you [this photograph](https://www.gettyimages.com/detail/news-photo/mona-lisa-also-called-la-gioconda-or-la-joconde-c1503-1506-news-photo/113493446?adppopup=true) of the painting for $500, because they have registered copyright on __that print__, not the actual painting.
 
 You can also choose to use [the above photograph](https://commons.wikimedia.org/wiki/File:Mona_Lisa_-_the_Louvre.jpg) for free, because the person who took it also made it publicly available. This is another place where good record keeping and proper attribution will pay off. As long as you can point to a copyright free version you sourced the media from, you are protected from liability. 
