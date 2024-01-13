@@ -62,7 +62,7 @@ foot: template/browse-js.html
                 </h2>
                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    {% assign mapped_ctypes = site.data.search_resources | map: "audio" | compact | join: ";" | remove: ";;" | remove: "; ;" | split: ";" | compact | uniq %}
+                    {% assign mapped_ctypes = site.data.search_resources | map: "audio" | compact | join: ";" | remove: ";;" | split: ";" | compact | uniq %}
                         {% for c in mapped_ctypes %}
                         <a href="#{{ c }}" class="btn btn-outline-dark btn-sm m-1">{{ c }}</a>
                         {% endfor %}
