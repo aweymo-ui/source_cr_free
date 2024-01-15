@@ -31,5 +31,5 @@ For this hypothetical, we would look again at the year 1927, 28 years after the 
 {% include figure.html img="hec.jpg" width="50%" alt="Black and white photo of man in glasses, suit and bowtie" caption="University of Washington basketball coach Hec Edmundson in 1945, in the public domain because it was published in the United States between 1929 and 1977 without a copyright notice." %}
 
 {% capture text %}**Note:**
-These same rules apply to books and magazines but these generally have copyright notices printed in their opening contents, making their status more transparent. That said, many types of books and magazines will not have this material, such as trade magazines, brochures and yearbooks, like this photo of Moscow, Idaho native and famous football coach Hec Edmundson from the University of Washington's _Tyee_ yearbook. {% endcapture %}
+These same rules apply to books and magazines but these generally have copyright notices printed in their opening contents, making their status more transparent. That said, many types of books and magazines will not have this material, such as trade magazines, brochures and yearbooks, like this photo of Moscow, Idaho native and famous basketball coach "Hec" Edmundson from the University of Washington's _Tyee_ yearbook. {% endcapture %}
 {% include alert.html text=text color=secondary %}
