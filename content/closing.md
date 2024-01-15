@@ -7,7 +7,7 @@ title: Closing Thoughts
 
 As I hinted at in the title of the workshop, using these techniques, you should be able to find _almost_ any copyright free media on your given subject. The exception to the rule are people of regular means before the invention of the handheld camera in the 1880s, and people towards the end of the twenty first century. 
 
-__Why the latter?__ The expansion of copyright law and the lack of camera phones has created a real gap in the historical record for people most active in the 1970s through the turn of the century. In the last twenty years, the accessibility of camera technology and greater overall familiarity with copyright law has made people (who have an interest in being seen) to license photos of themselves in the creative commons. 
+__Why the latter?__ The expansion of copyright law and the lack of camera phones has created a real gap in the historical record for people most active in the 1970s through the turn of the century. In the last twenty years, the accessibility of camera technology and greater overall familiarity with copyright law has influenced people (who have an interest in being seen) to license photos of themselves in the creative commons. 
 
 {% include figure.html img="bp.gif" alt="Interactive visualization of Black scholars" caption="Visualization for BlackPast" width="100%" %}
 
