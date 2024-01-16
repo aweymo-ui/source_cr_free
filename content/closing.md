@@ -11,7 +11,7 @@ __Why the latter?__ The expansion of copyright law and the lack of camera phones
 
 {% include figure.html img="bp.gif" alt="Interactive visualization of Black scholars" caption="Visualization for BlackPast" width="100%" %}
 
-In this [interactive visualization](https://indd.adobe.com/view/c320b5b9-b2c6-4e38-a952-0906df85ad08) I created for the digital encyclopedia _BlackPast_, I was asked to source photos of around 150 Black classicist scholars from all over the world. Most often, the most difficult people to find were active during this 1970-2000 period. 
+In this [interactive visualization](https://indd.adobe.com/view/c320b5b9-b2c6-4e38-a952-0906df85ad08) I created for the digital encyclopedia _BlackPast_, I was asked to source photos of around 150 Black classicist scholars from all over the world over the past 130 years. Most often, the most difficult people to find were active during this 1970-2000 period. 
 
 __An additional factor to this gap__ may also be digital initiatives, where universities, cultural institutions and libraries choose to digitize older collections in their archives, rather than from this more contemporary period, because they are seen as being at a higher risk of deterioration.
 
