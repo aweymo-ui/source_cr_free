@@ -24,6 +24,6 @@ Things become quite complicated regarding media that is not in public domain, so
 
 Relating to the first point, any item _with a copyright notice_ , whose _copyright has been renewed_ still becomes public domain 95 years after their publication date. 
 
-{% include figure.html img="mickey.jpg" alt="Walt Disney holding a three dimensional cut out of Mickey Mouse" caption="Walt Disney and Mickey Mouse, October 1931, under public domain because the periodical that published the work did not renew their copyright." width="100%" %}
+{% include figure.html img="mickey.jpg" alt="Walt Disney holding a three dimensional cut out of Mickey Mouse" caption="Walt Disney and Mickey Mouse, October 1931, under public domain because the periodical that published the work did not renew their copyright." width="75%" %}
 
-As of the time of this writing, this just happened with Mickey Mouse, who was originally created in 1928 and can now be recreated by anyone, anywhere, without permission of the Disney corporation. 
+As of the time of this writing, this just happened with Mickey Mouse in 1928's _Steamboat Willie_ and can now be recreated by anyone, anywhere, without permission of the Disney corporation. But keep in mind, this applies only to this _specific work_ and not _the character Mickey Mouse_ more generally. 
