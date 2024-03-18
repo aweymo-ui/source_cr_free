@@ -4,6 +4,9 @@ nav_order: 2
 title: Getting Started
 ---
 
+Before we begin, fill out <a href="https://forms.gle/t2TgJ6awrSVWzJVX8" target="_blank">this short survey</a> to help us learn about your current research strategies.
+
+
 ## Creative Commons
 
 While our [U of I Library Copyright Guide](https://www.lib.uidaho.edu/copyright/guide.html) and the [Cornell Libguide](https://guides.library.cornell.edu/copyright/publicdomain) are excellent, thorough resources, my goal here is to provide an abridged version of issues you will most likely to encounter sourcing copyright free media to compliment your research. 
