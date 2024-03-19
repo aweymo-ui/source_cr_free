@@ -31,7 +31,9 @@ __With this in mind__, if you do find yourself tempted to use a copyright protec
 
 If you would like to learn more about copyright, major media conglomerates and public access to history, I would highly recommend watching [A History Of The World According To Getty Images](https://vimeo.com/818633482) by Richard Misek.
 
-<iframe src="https://player.vimeo.com/video/818633482?h=547b4a8ca9&portrait=0" iframe-align="center" width="900" height="506" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://player.vimeo.com/video/818633482?h=547b4a8ca9&portrait=0" width="900" height="506" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen playsinline></iframe>
+</div>
 <p><a href="https://vimeo.com/818633482"></a>.</p>
 
 ---
