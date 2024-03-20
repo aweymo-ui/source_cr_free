@@ -15,7 +15,7 @@ Returning to Moscow, Idaho native and University of Idaho and Washington basketb
 - He competed in the 1912 Olympics running track
 - He coached at the University of Washington starting in 1920
 
-Now spend five minutes trying to find the earliest photograph of Hec, using the `Search Resources` and `How To Use These Resources` sections of this site. Think about the geographic and chronological areas that this photograph would most likely be, and how you can structure your search phrases to filter results. My findings are hidden below. **Good luck!**
+Now spend three minutes trying to find the earliest photograph of Hec, using the `Search Resources` and `How To Use These Resources` sections of this site. Think about the geographic and chronological areas that this photograph would most likely be, and how you can structure your search phrases to filter results. My findings are hidden below. **Good luck!**
 
 {% include question.html header="The Earliest Photo I Could Find" solution="[May 15, 1907 front page of Moscow, Idaho's The Argonaut, located in our Argonaut Archive Digital Collection at the U of I](https://objects.lib.uidaho.edu/argonaut/pdf/arg-1907-05-15.pdf). 
 
