@@ -9,9 +9,9 @@ Before we begin, fill out <a href="https://forms.gle/t2TgJ6awrSVWzJVX8" target="
 
 ## Creative Commons
 
-While our [U of I Library Copyright Guide](https://www.lib.uidaho.edu/copyright/guide.html) and the [Cornell Libguide](https://guides.library.cornell.edu/copyright/publicdomain) are excellent, thorough resources, my goal here is to provide an abridged version of issues you will most likely to encounter sourcing copyright free media to compliment your research. 
+While our [U of I Library Copyright Guide](https://www.lib.uidaho.edu/copyright/guide.html) and the [Cornell Libguide](https://guides.library.cornell.edu/copyright/publicdomain){:target="_blank" rel="noopener"}  are excellent, thorough resources, my goal here is to provide an abridged version of issues you will most likely to encounter sourcing copyright free media to compliment your research. 
 
-First off, items can be made available by any one of the [six creative commons licenses](https://creativecommons.org/share-your-work/cclicenses/). This [License Chooser](https://chooser-beta.creativecommons.org/) module created by the Creative Commons is helpful in understanding why people choose the different variations you'll encounter during research. 
+First off, items can be made available by any one of the [six creative commons licenses](https://creativecommons.org/share-your-work/cclicenses/){:target="_blank" rel="noopener"} . This [License Chooser](https://chooser-beta.creativecommons.org/){:target="_blank" rel="noopener"}  module created by the Creative Commons is helpful in understanding why people choose the different variations you'll encounter during research. 
 
 -------------
 
