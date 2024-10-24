@@ -29,4 +29,4 @@ Relating to the first point, any item _with a copyright notice_ , whose _copyrig
 
 {% include figure.html img="mickey.jpg" alt="Walt Disney holding a three dimensional cut out of Mickey Mouse" caption="Walt Disney and Mickey Mouse, October 1931, under public domain because the periodical that published the work did not renew their copyright." width="75%" %}
 
-As of the time of this writing, this just happened with Mickey Mouse in 1928's _Steamboat Willie_ and can now be recreated by anyone, anywhere, without permission of the Disney corporation. But keep in mind, this applies only to this _specific work_ and not _the character Mickey Mouse_ more generally. 
+When this workshop was originally created in Winter of 2024, this had just happened with Mickey Mouse in 1928's _Steamboat Willie_ and can now be recreated by anyone, anywhere, without permission of the Disney corporation. But keep in mind, this applies only to this _specific work_ and not _the character Mickey Mouse_ more generally. 
