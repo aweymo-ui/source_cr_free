@@ -23,7 +23,7 @@ __Where available, copyright search features have already been configured.__
 - `Universities and Higher Education Archives,` like the [University of Idaho Digital Collections](https://www.lib.uidaho.edu/digital/){:target="_blank" rel="noopener"} 
 - `State Government Archives,` like the [Washington State Digital Archives](https://digitalarchives.wa.gov/Search#2){:target="_blank" rel="noopener"} 
 - `Infrastructural Archives,` like the [Washington State Department of Transportation Digital Collections](https://cdm16977.contentdm.oclc.org/digital/search/searchterm/moscow%20idaho){:target="_blank" rel="noopener"} 
-- `Municipal Archives,`like the [Seattle Municiple Archives Digital Collections](https://archives.seattle.gov/digital-collections/index.php/MultiSearch/Index?search=moscow){:target="_blank" rel="noopener"} 
+- `Municipal Archives,`like the [Seattle Municipal Archives Digital Collections](https://archives.seattle.gov/digital-collections/index.php/MultiSearch/Index?search=moscow){:target="_blank" rel="noopener"} 
 - `Cultural and Community Archives,` such as [Washington Rural Heritage](https://www.washingtonruralheritage.org/digital/search/searchterm/moscow%20idaho){:target="_blank" rel="noopener"} 
 - `Historical Society Archives` like the [Washington State Historical Society](https://www.washingtonhistory.org/research/collections-search/?search_term=moscow+idaho){:target="_blank" rel="noopener"} 
 - `Public Library Archives,` like the [Tacoma Public Library Northwest Room](https://northwestroom.tacomalibrary.org/index.php/informationobject/browse?topLod=0&sort=relevance&query=moscow+idaho&repos=19266){:target="_blank" rel="noopener"} 
